@@ -14,3 +14,9 @@ mod+Shift+j 移动窗口到下一个窗口
 mod+e       打开文件管理器  
 - 更多快捷键查看配置文件  
   
+## 安装
+```shell
+	git clone https://github.com/denstiny/spectrwm.conf.git ~/.config/spectrwm
+	reboot
+	
+```
